@@ -4,7 +4,11 @@
 
 > Online článek a kontext na Vibemaker: [Seminární prezentace od otázky k argumentu](https://vibemaker.cz/clanek/seminarni-prezentace/)
 
-[![Seminární prezentace od otázky k argumentu](docs/nahled.gif)](https://vibemaker.cz/clanek/seminarni-prezentace/)
+<p align="center">
+  <a href="https://vibemaker.cz/clanek/seminarni-prezentace/">
+    <img src="docs/nahled.gif" alt="Seminární prezentace od otázky k argumentu">
+  </a>
+</p>
 
 Student sestaví scénář vystoupení, v němž má každé důležité tvrzení dohledatelný doklad a vyhrazený čas. Pro VŠ, zejména pro humanitní předměty.
 

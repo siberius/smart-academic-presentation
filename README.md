@@ -4,7 +4,11 @@
 
 > Article and context on Vibemaker: [Academic Presentation from Question to Argument](https://vibemaker.cz/clanek/seminarni-prezentace/)
 
-[![Academic Presentation from Question to Argument](docs/nahled.gif)](https://vibemaker.cz/clanek/seminarni-prezentace/)
+<p align="center">
+  <a href="https://vibemaker.cz/clanek/seminarni-prezentace/">
+    <img src="docs/nahled.gif" alt="Academic Presentation from Question to Argument">
+  </a>
+</p>
 
 The student builds a talk script where each material claim has traceable evidence and an allocated time. For university humanities work.
 
