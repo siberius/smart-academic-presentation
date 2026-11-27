@@ -2,6 +2,10 @@
 
 # Academic Presentation from Question to Argument
 
+> Article and context on Vibemaker: [Academic Presentation from Question to Argument](https://vibemaker.cz/clanek/seminarni-prezentace/)
+
+[![Academic Presentation from Question to Argument](docs/nahled.gif)](https://vibemaker.cz/clanek/seminarni-prezentace/)
+
 The student builds a talk script where each material claim has traceable evidence and an allocated time. For university humanities work.
 
 ## How to use
